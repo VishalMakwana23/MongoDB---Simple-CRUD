@@ -44,5 +44,5 @@ _DELETE_
 - [CLick Here](https://simple--crud.herokuapp.com)!
 
 ## Heroku app link to see Data...!
-- [CLick Here to see data in heroku](https://simple--crud.herokuapp.com/data)!
+- [CLick Here to see data in heroku](https://simple--crud.herokuapp.com/list)!
 
