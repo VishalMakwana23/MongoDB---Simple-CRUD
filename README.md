@@ -2,18 +2,19 @@
 
 
 
-Emphasis
-The Aim of this app is to show how data is being passed via "Postman" and MongoDB
+## Emphasis
 
-It is an Assignment given by VNSGU .
+- The Aim of this app is to show how data is being passed via "Postman" and MongoDB
 
-It's a simple Heroku App ,with MongoDB
+- It is an Assignment given by VNSGU .
 
-Requirements
-Nodejs 16.13.0 LTS and above
-Visual Studio Code or Other Editors
+- It's a simple Heroku App ,with MongoDB
 
-SCHEMA:
+## Requirements
+- Nodejs 14.18.0 LTS and above
+- Visual Studio Code or Other Editors
+
+## SCHEMA:
 
     id: String,
     title: String,
@@ -58,11 +59,11 @@ _DELETE_
         http://localhost:5000/deleteBook/java
 
 ## Want to see the Postman Screenshots?
-- [CLick Here](https://github.com/VishalMakwana23/MongoDB---Simple-CRUD/tree/main/Postman)!
+- [Click Here](https://github.com/VishalMakwana23/MongoDB---Simple-CRUD/tree/main/Postman)!
 
 ## Heroku app link...!
-- [CLick Here](https://simple--crud.herokuapp.com)!
+- [Click Here](https://simple--crud.herokuapp.com)!
 
 ## Heroku app link to see Data...!
-- [CLick Here to see data in heroku](https://simple--crud.herokuapp.com/list)!
+- [Click Here to see data in heroku](https://simple--crud.herokuapp.com/list)!
 
