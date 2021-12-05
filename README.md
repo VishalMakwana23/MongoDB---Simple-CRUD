@@ -22,20 +22,40 @@ SCHEMA:
     price: String
     
     
- ## POST REQUESTS:
+ ## POST REQUESTS (POSTMAN):
  
  _ADD_
 - add new Book
 
+      {
+        "newBook":{
+        "id": "b1",
+        "title": "OOP",
+        "auther": "Balagurusamy",
+        "publisher": "Neelkanth Publishers",
+        "price": "1999"         
+         }
+      }
+                
 _RETRIEVE_
 - fetch Book details based on Book Id
 
+        http://localhost:5000/list
+
 _UPDATE_
 - update Book  
- 
+
+        {
+        "title": "java",
+        "auther": "James Gosling",
+        "publisher": "Sun Microsystems",
+        "price": "2999"
+        }
 
 _DELETE_
 - delete Book
+
+        http://localhost:5000/deleteBook/java
 
 ## Want to see the Postman Screenshots?
 - [CLick Here](https://github.com/VishalMakwana23/MongoDB---Simple-CRUD/tree/main/Postman)!
