@@ -8,7 +8,7 @@
 
 - It is an Assignment given by VNSGU .
 
-- It's a simple Heroku App ,with MongoDB
+- It's a simple Heroku App with MongoDB
 
 ## Requirements
 - Nodejs 14.18.0 LTS and above
