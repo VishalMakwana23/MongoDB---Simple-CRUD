@@ -67,5 +67,9 @@ _DELETE_
 ## Heroku app link to see Data...!
 - [Click Here to see data in heroku](https://simple--crud.herokuapp.com/list)!
 
-https://mxsports.github.io/worldcup/
-https://vnsguacin-my.sharepoint.com/:f:/g/personal/vishalmakwana_dcs22n_vnsgu_ac_in/Es8C2m__VyZJtPx5tjThV70BAKx09-6-1VrAz_G5c7u4Gw?e=woMpl7
+## JACASCRIPT
+https://vnsguacin-my.sharepoint.com/:f:/g/personal/vishalmakwana_dcs22n_vnsgu_ac_in/EhhtWfOMEfVGlTIw47TDJhYBzcNR0dojaHZsQfCpsPlaVg
+
+## Node JS
+https://vnsguacin-my.sharepoint.com/:f:/g/personal/vishalmakwana_dcs22n_vnsgu_ac_in/Eh6L9gfV62ZFo3Ie3xKuNhIBrtwTwtjkv1kKQn_qhFqTmQ?e=4GIncd
+
